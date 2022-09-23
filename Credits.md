@@ -4,12 +4,23 @@
 - Hello
 - Shikaternia
 - Sednaiur
+- Murphmario
+- Sakke
+- AwesomeZack
 - Legend-tony980
 - Valtteri
 - jdster64
 - Retriever II
 - h2643
 - Mb12
+- Linkstorm Z
+- Road Runner
+- Dr. SVH
+- krazybluemonkey
+- Mosaic
+- WalMaker2022
+- Dragonmaster146
+- Doc Melonhead
 
 # Music
 
@@ -17,6 +28,7 @@
 - VGMusic
 - SMW Central
 - OverClocked Remix
+- Smash Custom Music
 - Original Rips
 
 # Sounds
